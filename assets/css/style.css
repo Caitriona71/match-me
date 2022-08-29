@@ -1,0 +1,10 @@
+h1 {
+    font-family: 'Bungee Shade', cursive;
+    color: #0add08;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+}
